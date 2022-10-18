@@ -54,6 +54,7 @@ Aspiring Java Backend Developer. Problem-solving mindset with a positive attitud
 <a href="https://twitter.com/mazidul36i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazidul36i" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mazidul36i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazidul36i" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mazidul36i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mazidul36i" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/GlieseDeveloper" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gliese Developer" height="34" /></a>
 </p>
 
 <br>
