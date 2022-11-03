@@ -11,7 +11,7 @@ Aspiring Java Backend Developer. Problem-solving mindset with a positive attitud
 
 - 👩‍💻 I’m currently working on **Java Backend Projects**
 - 💎 I’m currently learning **Java Backend Skills**
-- 🔎 Some of my outstanding projects are available in my [**Portfolio**](https://mazidul36i.github.io)
+- 🔎 Some of my outstanding projects are available in my <a href="https://mazidul36i.github.io" target="_blank">**Portfolio**</a>
 - 📫 How to reach me **islammazidul1369@gmail.com**
 
 ### 🛠 Lnaguages and tools:
