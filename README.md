@@ -17,44 +17,44 @@ Aspiring Java Backend Developer. Problem-solving mindset with a positive attitud
 ### 🛠 Lnaguages and tools:
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/java.svg" alt="java" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/mysql.svg" alt="mysql" width="40" height="40"/>
 </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/spring.svg" alt="spring" width="40" height="40"/>
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/git.svg" alt="git" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/aws.svg" alt="aws" width="40" height="40"/>
 </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/heroku.svg" alt="heroku" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/javascript.svg" alt="javascript" width="40" height="40"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/html5.svg" alt="html5" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://mazidul36i.github.io/resources/icons/css3.svg" alt="css3" width="40" height="40"/>
 </a>
 </p>
 
 ### 📌 Connect with me:
 <p align="left">
-<a href="https://twitter.com/mazidul36i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazidul36i" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mazidul36i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazidul36i" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mazidul36i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mazidul36i" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/GlieseDeveloper" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gliese Developer" height="34" /></a>
+<a href="https://twitter.com/mazidul36i" target="blank"><img align="center" src="https://mazidul36i.github.io/resources/icons/twitter.svg" alt="mazidul36i" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mazidul36i" target="blank"><img align="center" src="https://mazidul36i.github.io/resources/icons/linkedin.svg" alt="mazidul36i" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mazidul36i" target="blank"><img align="center" src="https://mazidul36i.github.io/resources/icons/stack-overflow.svg" alt="mazidul36i" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/GlieseDeveloper" target="blank"><img align="center" src="https://mazidul36i.github.io/resources/icons/youtube.svg" alt="Gliese Developer" height="34" /></a>
 </p>
 
 <br>
