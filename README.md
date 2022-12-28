@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mazidul Islam </h1>
 <h3 align="center">An enthusiastic Java Backend Developer</h3>
 
-<img align="right" width="400"  border-radius= "50" src="https://user-images.githubusercontent.com/71971788/195603424-481be516-decf-4b21-a7bf-48a41af106db.png"></img>
+<img align="right" width="400" border-radius= "50" src="https://user-images.githubusercontent.com/71971788/195603424-481be516-decf-4b21-a7bf-48a41af106db.png"></img>
 
 <h2 align="left">🚀About me:</h2>
 
