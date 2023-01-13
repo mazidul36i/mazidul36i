@@ -7,7 +7,7 @@
 
 <h2 align="left">🚀About me:</h2>
 
-Aspiring Java Backend Developer. Problem-solving mindset with a positive attitude and a willingness to learn new technologies. I am looking for a hopeful role in a company where I can utilize my skills and experience to contribute to the success of the team and the organization.
+Aspiring Java Backend Developer having a problem-solving mindset with a positive attitude and a willingness to learn new technologies. I am looking for a hopeful role in a company where I can utilize my skills and experience to contribute to the success of the team and the organization.
 
 - 👩‍💻 I’m currently working on **Java Backend Projects**
 - 💎 I’m currently learning **Java Backend Skills**
