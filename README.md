@@ -1,68 +1,72 @@
-<img width="100%" src="https://user-images.githubusercontent.com/71971788/195635838-cf7c67a1-ffc6-47f2-8a83-aff9e3d309a1.png"></img>
+<h1 align="center">Mazidul Islam</h1>
 
-<h1 align="center">Hi 👋, I'm Mazidul Islam </h1>
-<h3 align="center">An enthusiastic Java Backend Developer</h3>
-
-<img align="right" width="400" border-radius= "50" src="https://user-images.githubusercontent.com/71971788/195603424-481be516-decf-4b21-a7bf-48a41af106db.png"></img>
-
-<h2 align="left">🚀About me:</h2>
-
-Aspiring Java Backend Developer having a problem-solving mindset with a positive attitude and a willingness to learn new technologies. I am looking for a hopeful role in a company where I can utilize my skills and experience to contribute to the success of the team and the organization.
-
-- 👩‍💻 I’m currently working on **Open Solutions**
-- 💎 I’m currently learning **Angular**
-- 🔎 Some of my outstanding projects are available in my <a href="https://mazidul.com" target="_blank">**Portfolio**</a>
-- 📫 How to reach me **islammazidul1369@gmail.com**
-
-### 🛠 Lnaguages and tools:
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/java.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/mysql.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/spring.svg" alt="spring" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/git.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/aws.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/heroku.svg" alt="heroku" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/javascript.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/html5.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://mazidul.com/resources/icons/css3.svg" alt="css3" width="40" height="40"/>
-</a>
+<p align="center">
+  <b>Software Engineer · Backend & Distributed Systems</b><br>
+  Building clean APIs, predictable data, and architectures that survive growth.
 </p>
 
-### 📌 Connect with me:
-<p align="left">
-<a href="https://twitter.com/mazidul36i" target="blank"><img align="center" src="https://mazidul.com/resources/icons/twitter.svg" alt="mazidul36i" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mazidul36i" target="blank"><img align="center" src="https://mazidul.com/resources/icons/linkedin.svg" alt="mazidul36i" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mazidul36i" target="blank"><img align="center" src="https://mazidul.com/resources/icons/stack-overflow.svg" alt="mazidul36i" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/GlieseDeveloper" target="blank"><img align="center" src="https://mazidul.com/resources/icons/youtube.svg" alt="Gliese Developer" height="34" /></a>
+<p align="center">
+  <a href="https://mazidul.com"><img src="https://img.shields.io/badge/Portfolio-mazidul.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/mazidul36i"><img src="https://img.shields.io/badge/LinkedIn-mazidul36i-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:connect@mazidul.com"><img src="https://img.shields.io/badge/Email-connect%40mazidul.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/mazidul36i"><img src="https://img.shields.io/badge/X-@mazidul36i-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-<br>
+---
 
-## 🎉 GitHub Statistics:
+### About
 
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazidul36i&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I'm a backend-focused engineer with **3+ years shipping production systems**. Since 2023 I've been at
+**[Prospecta Software](https://www.prospecta.com)**, working on **Master Data Online (MDO)**, an enterprise master-data
+platform used by global clients. Day to day that means Spring Boot, PostgreSQL, Elasticsearch, RabbitMQ, gRPC and
+Apache Spark.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazidul36i&show_icons=true&theme=tokyonight)
+Before that I built Android apps. One of them, a real-time internet speed meter, grew to **500K+ installs** on the Play Store, and I built and ran it on my own.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mazidul36i&theme=tokyonight)](https://git.io/streak-stats)
+**How I work:** learn the domain first, design for year two, automate anything done twice, ship and measure in production.
+
+### Selected work at Prospecta
+
+| | |
+|---|---|
+| **KAI: AI chat for master data** | Natural-language interface to create, update and delete MDO records, with field mapping, real-time validation, auto-fill of related data and approval-workflow routing. |
+| **SAP load-sheet processor** | Python/Pandas ETL service that ingests 33K-record SAP Fiori load-sheets and drives MDO create/update/delete operations. It turned a multi-day manual process into a single upload. |
+| **No-code rules engine** | Lets clients define validation rules without code. It covers about 60% of client validation needs. |
+| **MDO ONE: 360° record view** | One page per record that brings together quality scores, compliance, related records, history and collaboration. Custom dashboard requests dropped by about 70%. |
+
+### Tech
+
+- **Languages:** Java · Kotlin · Python · TypeScript · JavaScript · SQL
+- **Backend:** Spring Boot · Spring Security · Spring AI · Spring WebFlux · Hibernate/JPA · gRPC
+- **Data & messaging:** PostgreSQL (pgvector) · MySQL · Elasticsearch · RabbitMQ · Apache Spark
+- **Cloud & tooling:** AWS · GCP · Firebase · Docker · GitHub Actions · Maven
+- **Frontend (when needed):** React · Angular · Tailwind CSS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,ts,spring,postgres,mysql,elasticsearch,rabbitmq,aws,gcp,firebase,docker,react,angular&perline=15" alt="Tech stack">
+</p>
+
+### Open source & side projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**phantom**](https://github.com/mazidul36i/phantom) | Fully local AI assistant with persistent semantic memory (RAG over pgvector) and WebSocket chat | Java 21, Spring Boot 3.5, Spring AI, WebFlux, PostgreSQL + pgvector, Ollama |
+| [**marrsbank**](https://github.com/mazidul36i/marrsbank) | RESTful payment-wallet API with per-step user validation, built by a team of five | Java, Spring Boot, MySQL, Swagger |
+| [**jwt-spring-security**](https://github.com/mazidul36i/jwt-spring-security) | Reference implementation of JWT authentication with role-based authorization | Spring Boot, Spring Security |
+| [**dev-tools**](https://github.com/mazidul36i/dev-tools) | Browser-based dev utilities: JSON formatter (with Java DTO → JSON), OCR, encoders, color picker. [Live](https://devtools.mazidul.com) | React 19, Vite, Tailwind v4 |
+| [**classic-games**](https://github.com/mazidul36i/classic-games) | Memory-games platform with real-time multiplayer rooms, global leaderboard and player stats, deployed through GitHub Actions | React 19, TypeScript, Firebase RTDB/Firestore, Zustand |
+| [**log-reader-ui**](https://github.com/mazidul36i/log-reader-ui) | Log viewer that handles large files with virtualized rendering and time-series charts | React, Zustand, TanStack Virtual, Chart.js, Docker |
+| [**QuickGUI**](https://github.com/mazidul36i/QuickGUI) / [**BetterTPA**](https://github.com/mazidul36i/BetterTPA) | Open-source Minecraft Paper plugins: admin-configurable command GUIs and player teleportation | Java, PaperMC |
+
+### GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mazidul36i&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidul36i&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages">
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to backend and full-stack roles, contract work on data-heavy systems, and open-source collaboration. Bengaluru (hybrid) or remote, IST (UTC+5:30).</sub>
+</p>
