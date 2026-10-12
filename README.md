@@ -50,13 +50,12 @@ Before that I built Android apps. One of them, a real-time internet speed meter,
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**phantom**](https://github.com/mazidul36i/phantom) | Fully local AI assistant with persistent semantic memory (RAG over pgvector) and WebSocket chat | Java 21, Spring Boot 3.5, Spring AI, WebFlux, PostgreSQL + pgvector, Ollama |
-| [**marrsbank**](https://github.com/mazidul36i/marrsbank) | RESTful payment-wallet API with per-step user validation, built by a team of five | Java, Spring Boot, MySQL, Swagger |
-| [**jwt-spring-security**](https://github.com/mazidul36i/jwt-spring-security) | Reference implementation of JWT authentication with role-based authorization | Spring Boot, Spring Security |
 | [**dev-tools**](https://github.com/mazidul36i/dev-tools) | Browser-based dev utilities: JSON formatter (with Java DTO → JSON), OCR, encoders, color picker. [Live](https://devtools.mazidul.com) | React 19, Vite, Tailwind v4 |
-| [**classic-games**](https://github.com/mazidul36i/classic-games) | Memory-games platform with real-time multiplayer rooms, global leaderboard and player stats, deployed through GitHub Actions | React 19, TypeScript, Firebase RTDB/Firestore, Zustand |
+| [**phantom**](https://github.com/mazidul36i/phantom) | Fully local AI assistant with persistent semantic memory (RAG over pgvector) and WebSocket chat | Java 21, Spring Boot 3.5, Spring AI, WebFlux, PostgreSQL + pgvector, Ollama |
 | [**log-reader-ui**](https://github.com/mazidul36i/log-reader-ui) | Log viewer that handles large files with virtualized rendering and time-series charts | React, Zustand, TanStack Virtual, Chart.js, Docker |
-| [**QuickGUI**](https://github.com/mazidul36i/QuickGUI) / [**BetterTPA**](https://github.com/mazidul36i/BetterTPA) | Open-source Minecraft Paper plugins: admin-configurable command GUIs and player teleportation | Java, PaperMC |
+| [**jwt-spring-security**](https://github.com/mazidul36i/jwt-spring-security) | Reference implementation of JWT authentication with role-based authorization | Spring Boot, Spring Security |
+| [**classic-games**](https://github.com/mazidul36i/classic-games) | Memory-games platform with real-time multiplayer rooms, global leaderboard and player stats, deployed through GitHub Actions | React 19, TypeScript, Firebase RTDB/Firestore, Zustand |
+| [**BetterTPA**](https://github.com/mazidul36i/BetterTPA) | Open-source Minecraft Paper plugin for player teleportation requests (TPA) | Java, PaperMC |
 
 ### GitHub
 
