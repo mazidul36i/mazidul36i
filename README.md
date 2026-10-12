@@ -18,7 +18,7 @@
 
 I'm a backend-focused engineer with **3+ years shipping production systems**. Since 2023 I've been at
 **[Prospecta Software](https://www.prospecta.com)**, working on **Master Data Online (MDO)**, an enterprise master-data
-platform used by global clients. Day to day that means Spring Boot, PostgreSQL, Elasticsearch, RabbitMQ, gRPC and
+platform used by global clients. Day to day that means Spring Boot, Spring AI, PostgreSQL, Elasticsearch, RabbitMQ, gRPC and
 Apache Spark.
 
 Before that I built Android apps. One of them, a real-time internet speed meter, grew to **500K+ installs** on the Play Store, and I built and ran it on my own.
@@ -29,10 +29,10 @@ Before that I built Android apps. One of them, a real-time internet speed meter,
 
 | | |
 |---|---|
-| **KAI: AI chat for master data** | Natural-language interface to create, update and delete MDO records, with field mapping, real-time validation, auto-fill of related data and approval-workflow routing. |
-| **SAP load-sheet processor** | Python/Pandas ETL service that ingests 33K-record SAP Fiori load-sheets and drives MDO create/update/delete operations. It turned a multi-day manual process into a single upload. |
+| **KAI: AI Agent for master data** | Natural-language interface to create, update and delete MDO records, with field mapping, real-time validation, auto-fill of related data and approval-workflow routing. |
+| **SAP load-sheet processor** | Python/Pandas ETL service that ingests thousands of SAP Fiori load-sheets records and drives MDO create/update/delete operations. It turned a weeks of manual process into a single upload. |
 | **No-code rules engine** | Lets clients define validation rules without code. It covers about 60% of client validation needs. |
-| **MDO ONE: 360° record view** | One page per record that brings together quality scores, compliance, related records, history and collaboration. Custom dashboard requests dropped by about 70%. |
+| **MDO ONE: 360° record view** | One page per master record that brings together quality scores, compliance, related records, history and collaboration. Custom dashboard requests dropped by about 70%. |
 
 ### Tech
 
