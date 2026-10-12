@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://mazidul.com"><img src="https://img.shields.io/badge/Portfolio-mazidul.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/mazidul36i"><img src="https://img.shields.io/badge/LinkedIn-mazidul36i-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:connect@mazidul.com"><img src="https://img.shields.io/badge/Email-connect%40mazidul.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://x.com/mazidul36i"><img src="https://img.shields.io/badge/X-@mazidul36i-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://mazidul.com"><img src="https://img.shields.io/badge/mazidul.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/mazidul36i"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:connect@mazidul.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/mazidul36i"><img src="https://img.shields.io/badge/%40mazidul36i-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
